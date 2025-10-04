@@ -1,4 +1,5 @@
 Trance Gemini © 2025 by "Sepsis" is licensed under Creative Commons Attribution-NonCommercial 4.0 International
+---------------------
 This doesn't mean you need to pay to use them; you just can't redistribute for commericial purposes, including "donations".
 ---------------------
 Use Trance-Gemini-V1 (2).json, that one shouldn't cause any blocks.
